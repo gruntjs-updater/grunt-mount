@@ -32,6 +32,6 @@
     "should": "~1.2.2"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   }
 }
